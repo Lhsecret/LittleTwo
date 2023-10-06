@@ -1,3 +1,3 @@
 # LittleTwo
 一个Todolist，一个轮播图
-分别进入Lunbo文件夹和Todolist-obj文件夹来打开两个不同的小项目。
+其中轮播图是采用vue3所编写，采用了组件化的思路，而Todolist则是使用原生js编写的。
